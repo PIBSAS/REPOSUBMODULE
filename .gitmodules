@@ -1,9 +1,0 @@
-[submodule "mejoras/ghdl/Install_GHDL_WSL"]
-	path = mejoras/ghdl/Install_GHDL_WSL
-	url = git@github.com:PIBSAS/Install_GHDL_WSL.git
-[submodule "mejoras/ghdl"]
-	path = mejoras/ghdl
-	url = git@github.com:PIBSAS/Install_GHDL_WSL.git
-[submodule "esp-idf"]
-	path = esp-idf
-	url = git@github.com:PIBSAS/esp-idf
